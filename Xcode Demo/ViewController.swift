@@ -20,8 +20,8 @@ class ViewController: UIViewController {
         // Control-I : re-indent selection
         // Command-[] : move indentation left/right
         
-        var firstName = "Dimitri"
-        print("My name is \(firstName)")
+        var fullName = "Dimitri Bouniol"
+        print("My name is \(fullName)")
         
         // Do any additional setup after loading the view.
     }
