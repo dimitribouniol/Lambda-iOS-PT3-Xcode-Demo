@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         // Control-Command-E: Edit all in Scope
         // Control-I : re-indent selection
         // Command-[] : move indentation left/right
+        // Option-arrow: move I-beam one word at a time
         
         let fullName = "Pseudo-Dimitri Bouniol"
         print("My name is \(fullName)!")
