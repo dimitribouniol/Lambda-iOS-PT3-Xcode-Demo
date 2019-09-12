@@ -21,7 +21,7 @@ class ViewController: UIViewController {
         // Command-[] : move indentation left/right
         // Option-arrow : move I-beam one word at a time
         
-        let fullName = "Dimitri Bouniol"
+        let fullName = "Christy Hicks"
         print("My name is \(fullName)!")
         
         // Do any additional setup after loading the view.
