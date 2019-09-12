@@ -23,10 +23,6 @@ class ViewController: UIViewController {
         var firstName = "Dimitri"
         print("My name is \(firstName)")
         
-        if true {
-            // test
-        }
-        
         // Do any additional setup after loading the view.
     }
 
