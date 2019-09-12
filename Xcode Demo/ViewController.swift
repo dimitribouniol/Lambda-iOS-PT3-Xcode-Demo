@@ -21,7 +21,7 @@ class ViewController: UIViewController {
         // Command-[] : move indentation left/right
         
         let fullName = "Dimitri Bouniol"
-        print("My name is \(fullName)")
+        print("My name is \(fullName)!")
         
         // Do any additional setup after loading the view.
     }
